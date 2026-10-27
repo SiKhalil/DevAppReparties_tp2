@@ -54,14 +54,6 @@ Capture : console du serveur
 Capture : console du client
 ![client](captures/a22_client.png)
 
-## Dépôt
 
-```
-git init
-git add .
-git commit -m "TP2 DAR2026"
-git branch -M main
-git remote add origin https://github.com/SiKhalil/TP2-DAR2026.git
-git push -u origin main
 ```
 >>>>>>> 5f5085d (TP2 DAR2026)
